@@ -1,0 +1,3 @@
+function max(){
+    return x;
+}
