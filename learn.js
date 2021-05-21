@@ -3,7 +3,7 @@ function pl(){
 }
 
 function min(){
-    //what changed
+    // see conflict
     if (a<b){
         return a;
     }
