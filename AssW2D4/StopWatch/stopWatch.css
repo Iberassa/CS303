@@ -1,0 +1,16 @@
+body{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 300px;
+    min-block-size: 1000px;
+    width: 8em;
+    background-color:bisque;
+}
+button{
+    color: brown;
+}
+p{
+    font-size: large;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+}
