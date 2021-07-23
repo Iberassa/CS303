@@ -1,0 +1,19 @@
+#refresh {
+    width: 350px;
+    margin-left: 300px;
+    margin-right: 300px;
+    background-color: rgb(161, 240, 124);
+    color: #222;
+    font-size: 2rem;
+    font-family: inherit;
+    padding: 2rem 3rem;
+    cursor: pointer;
+  }
+  body{
+      background-color: antiquewhite;
+  }
+
+  div{
+      font-family: Arial, Helvetica, sans-serif;
+      font-weight: 300;
+  }
